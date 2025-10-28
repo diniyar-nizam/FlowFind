@@ -1,0 +1,5 @@
+TOKEN = 'XXXXXXXXXX'
+DB_URL = 'sqlite+aiosqlite:///db.sqlite3'
+ADMIN_ID = [XXXXXXXXXX, XXXXXXXXXX, XXXXXXXXXX, XXXXXXXXXX]
+
+
